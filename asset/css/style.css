@@ -1,0 +1,123 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a.btn.btn-default {
+	width: 140px;
+	font-size: 19px;
+}
+
+a.btn.btn-info {
+	width: 140px;
+	font-size: 19px;
+	margin-bottom: 10px;
+}
+
+.fab.fa-windows.wd.f {
+	width: 50px;
+	height: 50px;
+	color: #fff;
+	border-radius: 50%;
+	border: 1px solid #333;
+	font-size: 30px;
+	line-height: 50px;
+}
+
+i.fab.fa-linux.ln.f {
+	width: 50px;
+	height: 50px;
+	color: #fff;
+	border-radius: 50%;
+	border: 1px solid #333;
+	font-size: 30px;
+	line-height: 50px;
+}
+
+i.fab.fa-apple.ap.f {
+	width: 50px;
+	height: 50px;
+	color: #fff;
+	border-radius: 50%;
+	border: 1px solid #333;
+	font-size: 30px;
+	line-height: 50px;
+}
+
+.row.col-md-12.app_row {
+	margin: 20px 0px 20px 0px;
+	border: 2px solid #0b8ab3;
+	background: lightblue;
+	color: #333;
+	line-height: 40px;
+}
+
+.navbar-inverse {
+	background: black;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+	background: black;
+}
+
+.dropdown {
+	background: #333;
+}
+
+button#menu1 {
+	color: #fff;
+	background: black;
+	border: 0px;
+	height: 49px;
+	padding: 10px;
+
+}
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+.f {
+	width: 50px;
+	height: 50px;
+	color: #fff;
+	border-radius: 50%;
+	border: 1px solid #333;
+	font-size: 30px;
+	line-height: 50px;
+}
+
+w {
+}
+
+.row.col-md-12.app_row {
+	margin: 20px 0px 20px 0px;
+	border: 2px solid #0b8ab3;
+	background: lightblue;
+	color: #333;
+	line-height: 40px;
+}
+
+.navbar-inverse {
+	background: black;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+	background: black;
+}
+
+.dropdown {
+	background: #333;
+}
+
+button#menu1 {
+	color: #fff;
+	background: black;
+	border: 0px;
+	height: 49px;
+	padding: 10px;
+
+}
+
